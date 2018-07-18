@@ -9,7 +9,7 @@ import sys
 import socket
 import os
 import time
-from platform import python_version
+
 reload(sys)
 str.title("SCRAPY PROXY")
 sys.setdefaultencoding('utf8')
@@ -26,7 +26,7 @@ host = "google.com"
 timeout = 3 #3 detik
 def slowprint(s):
     os.system("clear")
-    print P+"Proxy Checker & Scapy Proxy sslproxies.org"+W
+    print P+"Proxy Checker & Scraping Proxy sslproxies.org"+W
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush() # defeat buffering
@@ -84,7 +84,7 @@ def files_txt(o):
         test(proxy[0], int(proxy[1]))
 def ops():
     while True:
-        print "\n----- [ MENU ] -----\n1. Scan Proxy Online\n2. Manual check\n3. Scan Proxy Text\n--------------------\r\n"
+        print "\n----- [ MENU ] -----\n1. Scan Proxy Online (Scraping Proxy)\n2. Manual check\n3. Scan Proxy Text\n--------------------\r\n"
         try:
             opt = int(raw_input(C+"Masukkan Pilihan: "+W))
             if opt == 1:
