@@ -21,7 +21,7 @@ B  = '\033[34m' # blue
 P  = '\033[35m' # purple
 C  = '\033[36m' # cyan
 GR = '\033[37m' # gray
-file = "/storage/emulated/0/a/log.txt"
+file = "/storage/emulated/0/Proxylog.txt"
 host = "google.com"
 timeout = 3 #3 detik
 def slowprint(s):
