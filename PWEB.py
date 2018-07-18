@@ -84,7 +84,7 @@ def files_txt(o):
         test(proxy[0], int(proxy[1]))
 def ops():
     while True:
-        print "\n----- [ MENU ] -----\n1. Scan Proxy Online (Scraping Proxy)\n2. Manual check\n3. Scan Proxy Text\n--------------------\r\n"
+        print "\n----- [ MENU ] -----\n1. Grab Proxy Online \n2. Checker Proxy\n3. Checker Proxy List\n--------------------\r\n"
         try:
             opt = int(raw_input(C+"Masukkan Pilihan: "+W))
             if opt == 1:
