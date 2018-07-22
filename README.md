@@ -32,3 +32,7 @@ Checker massal Proxy list in text
 
 ![screenshot_2018-07-17-21-37-12-345_org qpython qpy](https://user-images.githubusercontent.com/41333888/42820880-6c4775de-8a01-11e8-85f1-fa810d7746be.png)
 
+Update
+Cara mencari mencari Squid Proxy untuk SSH dengan Script ini.
+
+https://youtu.be/CZxfSV494wY
