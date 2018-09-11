@@ -1,10 +1,14 @@
-Proxy Checker & Scapy Proxy
+![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)
+[![TeamCity (simple build status)](https://img.shields.io/badge/Tutorial-Youtube-red.svg)](https://www.youtube.com/watch?v=CZxfSV494wY&t=1s)
+
+
+# Qgrab Proxy Checker Online and Offline
 Digunakan untuk check Proxy
 
 Menu yang tersedia
-1. Scan Proxy Online
+**1. Scan Proxy Online
 2. Manual check
-3. Scan Proxy Text
+3. Scan Proxy Text**
 
 #Menu 1
 
@@ -34,5 +38,6 @@ Checker massal Proxy list in text
 
 Update
 Cara mencari mencari Squid Proxy untuk SSH dengan Script ini.
+Click untuk menuju tutorial
 
-https://youtu.be/CZxfSV494wY
+[![TeamCity (simple build status)](https://img.shields.io/badge/Tutorial-Youtube-red.svg)](https://www.youtube.com/watch?v=CZxfSV494wY&t=1s)
